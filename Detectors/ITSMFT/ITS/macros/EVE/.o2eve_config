@@ -94,3 +94,7 @@ OCDB.default.path:                      local:///local/cdb/
 #
 # EOF
 #
+# Include detectors in intialization
+# 
+include.TPC:				false
+include.ITS:				true
